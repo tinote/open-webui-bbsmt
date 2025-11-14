@@ -1,3 +1,10 @@
+# KI Server
+## Allgemein
+IP:
+User:
+PW:
+Betriebssystem: Ubuntu 24.04.03 LTS
+## Installationen
 # Open WebUI 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
