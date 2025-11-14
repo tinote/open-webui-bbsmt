@@ -1,14 +1,17 @@
 # KI Server
 ## Allgemein
+
 IP:  
 
-User:  
+User:  FIKIbbsmt
 
-PW:  
+PW:  FIKIbbsmt
 
 Betriebssystem: Ubuntu 24.04.03 LTS  
 
 ## Installationen
+
+
 # Open WebUI 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
