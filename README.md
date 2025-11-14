@@ -1,9 +1,13 @@
 # KI Server
 ## Allgemein
-IP:
-User:
-PW:
-Betriebssystem: Ubuntu 24.04.03 LTS
+IP:  
+
+User:  
+
+PW:  
+
+Betriebssystem: Ubuntu 24.04.03 LTS  
+
 ## Installationen
 # Open WebUI 👋
 
